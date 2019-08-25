@@ -1,3 +1,4 @@
-# Yuwei Wu's Personal Page
+Yuwei Wu's Personal Page
+========================
 
-## View at willyoung2017.github.io
+You can view my pages at <http://willyoung2017.github.io>.
