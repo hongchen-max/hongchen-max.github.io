@@ -1,0 +1,3 @@
+name: Yuwei Wu
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
